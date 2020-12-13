@@ -16,4 +16,4 @@ Run node . in the package directory
 
 
 ## License
-[MIT License](https://opensource.org/licenses/MIT
+MIT
